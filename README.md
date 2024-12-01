@@ -21,8 +21,8 @@ Each week, I will use a different LLMs to from based on: https://bigcode-bench.g
 - Week 4: [Gemini](https://gemini.google.com/app)
 
 ## 📂 Repository Structure
-- `dayXX/`: Each day's puzzle solution and related files.
-  - `notes/`: Insights, AI interaction logs, and reflections.
+- `dayNN/`: Each day's puzzle solution and related files.
+  - `dayNN-gpt-log.md/`: Insights, AI interaction logs, and reflections.
 - `README.md`: This file!
 
 ## 💡 Reflections
