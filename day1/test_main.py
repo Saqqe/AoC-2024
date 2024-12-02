@@ -19,5 +19,5 @@ class TestAdventOfCodeDay1(unittest.TestCase):
         self.assertEqual(similarity_score, 31)
 
 if __name__ == '__main__':
-    filename = "testData.txt"
+    filename = "testData_day1.txt"
     unittest.main()
